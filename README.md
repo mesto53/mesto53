@@ -95,11 +95,11 @@
 
 ###
 
-<h2 align="center">Viewer's</h2>
+<h2>Viewer's</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://profile-counter.glitch.me/mesto53/count.svg?"  />
 </div>
 
