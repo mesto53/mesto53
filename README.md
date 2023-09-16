@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="center">Viewer's<br>100 is good so go!</h2>
+<h2 align="center">Viewer's</h2>
 
 ###
 
