@@ -60,6 +60,10 @@
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
 ###
